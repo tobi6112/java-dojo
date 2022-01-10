@@ -1,4 +1,4 @@
-package comgithub.tobi6112.springbootkafkaexample;
+package com.github.tobi6112.springbootkafkaexample;
 
 import java.util.HashSet;
 import java.util.Set;

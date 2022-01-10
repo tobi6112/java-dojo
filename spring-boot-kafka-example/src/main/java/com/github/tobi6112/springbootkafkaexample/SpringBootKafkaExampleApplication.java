@@ -1,4 +1,4 @@
-package comgithub.tobi6112.springbootkafkaexample;
+package com.github.tobi6112.springbootkafkaexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
